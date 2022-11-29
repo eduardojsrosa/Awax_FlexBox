@@ -15,4 +15,4 @@
 
 Disponível em:
 
-https://eduardojsrosa.github.io/Awax_Flexbox/
+https://eduardojsrosa.github.io/Awax_FlexBox/
